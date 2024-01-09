@@ -1,6 +1,7 @@
 
 header {
     background-color: antiquewhite;
+    color: navy; 
 }
 
 body {
@@ -9,8 +10,8 @@ color: aqua;
 }
 
 nav {
-color: darkblue; 
-    border: 1.5px; 
+border: 1.5px solid darkblue; 
+    border-style: dotted; 
     padding: 5px;
 }
 
