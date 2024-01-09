@@ -25,7 +25,14 @@ color: navy;
     text-align: left;
 }
 
-ul {
+h2 {
+    background-color: forestgreen
+    color: cornflowerblue;
+    text-align: left; 
+    text-emphasis: bold; 
+    }
+
+    ul {
 color: mediumpurple;
     text-align: left;
 }
