@@ -25,9 +25,9 @@ color: navy;
     text-align: left;
 }
 
-h3 {
+form {
     background-color: forestgreen
-    color: cornflowerblue;
+    text : cornflowerblue;
     text-align: left; 
     text-emphasis: bold; 
     }
