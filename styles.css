@@ -1,6 +1,7 @@
 
 header {
     background-color: antiquewhite;
+    
     color: navy; 
 }
 
@@ -42,6 +43,10 @@ color: darkmagenta;
     text-align: left;
 }
 
-
+p {
+    color: navy; 
+    text-align: left; 
+    display: block;
+}
   </body>
 </html>
