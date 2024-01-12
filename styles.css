@@ -6,7 +6,7 @@ header {
 }
 
 body {
-color: forestgreen; 
+color: navy; 
     text-align: left;
 }
 
@@ -27,17 +27,16 @@ color: navy;
     text-align: left;
 }
 
-<form 
-
-form
 
 form {
-    background-color: forestgreen
-    text : cornflowerblue;
+    background-color: white; 
+    color : cornflowerblue; 
     text-align: left; 
     text-emphasis: bold; 
-    }
-
+    border:1px solid navy; 
+    border-style: dotted; 
+    padding: 10px
+}
 
     ul {
 color: mediumblue;
